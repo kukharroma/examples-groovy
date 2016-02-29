@@ -9,6 +9,6 @@ class People {
     static void main(def args){
         People p = new People(firstName: "Roma", lastName: "Kukhar")
         println(p.toString())
-        int k =3
+
     }
 }
